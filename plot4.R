@@ -1,7 +1,7 @@
 
 ## EXPLORATORY DATA ANALYSIS: COURSE PROJECT 1
 ## 
-## Code for PLOT 01
+## Code for PLOT 04
 
 
 # 1.Set Working directory and Data processing
